@@ -1,6 +1,6 @@
 [package]
 name = "tinyeasings"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 rust-version = "1.85"
 description = "All 30 easings.net curves for f32 and f64, with runtime curve selection"
