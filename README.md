@@ -146,6 +146,8 @@ python tools/make_gifs.py curves.csv doc
 
 ## Rust
 
+**[Interactive Rust demo](https://varnholt.github.io/tinyeasings/)** — [native and browser build instructions](rust/demo/README.md).
+
 [`rust/`](rust/README.md) contains the native `tinyeasings` Rust crate: no dependencies and no C++ toolchain required. It includes examples, tests against the C++ implementation, and Cargo packaging. See the [Rust README](rust/README.md) for the API and local installation.
 
 ## License
