@@ -1,6 +1,6 @@
 # tinyeasings
 
-**[Interactive Rust demo](https://varnholt.github.io/tinyeasings/)** — [run it natively or build for the browser](demo/README.md).
+**[Interactive Rust demo](https://varnholt.github.io/tinyeasings/)** — [run it natively or build for the browser](https://github.com/varnholt/tinyeasings/blob/rust-v0.1.1/rust/demo/README.md).
 
 All 30 easings.net curves for `f32` and `f64`, with runtime curve selection. Native Rust, no dependencies, no unsafe code. CC0-1.0, matching the C++ header. Requires Rust 1.85 or newer.
 
